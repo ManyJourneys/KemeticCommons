@@ -24,3 +24,7 @@ The projects is constituted of
 3. C/r/ow/le/y, because he was a racist moron.
 4. Ancient Aliens. Like, seriously, that stuff is racist AF
 
+## How to Contribute
+You need to have a GitHub account to contribute. Open one with a burner email if need be.
+Then you can either open an issue requesting a new resource to be added, a resource to be modified or a warning to be added, or add your own content, even an entire new section of the project, by starting a pull request. Please look at the Git Hub documentation before you do so.
+Any help is welcome!
