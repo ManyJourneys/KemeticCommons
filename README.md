@@ -38,5 +38,7 @@ You need to have a GitHub account to contribute. Open one with a burner email if
 Then you can either 
 1. open an issue requesting a new resource to be added, a resource to be modified or a warning to be added, or 
 2. add your own content, even an entire new section of the project, by starting a pull request. 
-Please look at the Git Hub documentation before you do so.
+
+Please look at the GitHub documentation before you do so.
+
 Any help is welcome!
